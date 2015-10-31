@@ -1,0 +1,9 @@
+/Users/mikejames/Git/RateBeer/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mikejames/Git/RateBeer/bin/Debug/RateBeer.dll.mdb
+/Users/mikejames/Git/RateBeer/bin/Debug/RateBeer.dll
+/Users/mikejames/Git/RateBeer/obj/Debug/RateBeer.dll
+/Users/mikejames/Git/RateBeer/obj/Debug/RateBeer.dll.mdb
+/Users/mikejames/Git/RateBeer/bin/Debug/System.Net.Http.dll
+/Users/mikejames/Git/RateBeer/bin/Debug/System.Net.Http.Primitives.dll
+/Users/mikejames/Git/RateBeer/bin/Debug/System.Net.Http.Extensions.dll
+/Users/mikejames/Git/RateBeer/bin/Debug/Newtonsoft.Json.dll
